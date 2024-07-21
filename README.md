@@ -1,5 +1,5 @@
 # APP WEB
-## ESTE PROYECTO ESTA ECHO CON REACT.JS
+## ESTE PROYECTO ESTA ECHO CON EXPRESS
 
 # INSTALACIONES
 ## 1 NODE // instalacion como cualquier programa solo next y next hasta el final
